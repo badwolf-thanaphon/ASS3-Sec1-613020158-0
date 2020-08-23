@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Ass3Layout</string>
+    <string name="assignment3sec1">ASSIGNMENT-3-SEC-1</string>
+    <string name="image">image</string>
+    <string name="assignment">assignment</string>
+    <string name="happybirthday">HappyBirthday</string>
+    <string name="bg">bg</string>
 </resources>
